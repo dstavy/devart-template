@@ -2,7 +2,7 @@
 Fingerprint it
 
 ## Authors
-- Dan, Stavy, dstavy
+- Dan, Stavy, https://github.com/dstavy
 - Insert main author name, surname, github account
 - Insert other author(s) name, surname, github account (one per list element)
 
